@@ -1,1 +1,1 @@
-# Oddin-Recipes
+The Curent project is to build a basic recipe website using html and and commit it on github.
